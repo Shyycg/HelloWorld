@@ -1,0 +1,24 @@
+{
+  "name": "helloworld",
+  "homepage": "https://github.com/Shyycg/HelloWorld",
+  "authors": [
+    "shyycg <415303106@qq.com>"
+  ],
+  "description": "0.0.1",
+  "main": "123",
+  "keywords": [
+    "123"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
